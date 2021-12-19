@@ -1,0 +1,4 @@
+﻿  ASD_lab_8.cpp
+C:\Study\АСД\АСД_Лаб_8\ASD_lab_8\ASD_lab_8\ASD_lab_8.cpp(60,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Study\АСД\АСД_Лаб_8\ASD_lab_8\ASD_lab_8\ASD_lab_8.cpp(104,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ASD_lab_8.vcxproj -> C:\Study\АСД\АСД_Лаб_8\ASD_lab_8\Debug\ASD_lab_8.exe
